@@ -1,0 +1,12 @@
+{
+    "name": "monster/auto",
+    "description": "auto",
+    "authors": [
+        {
+            "name": "林宥丞",
+        "email": "a26913700@gmail.com"
+        }
+    ],
+
+    "require": {}
+}
